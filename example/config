@@ -1,0 +1,10 @@
+
+outdir:
+    'example/'
+
+chrm:
+    'chr17'
+
+cutoff:
+    - 3
+    - 4
