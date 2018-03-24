@@ -2,8 +2,8 @@
 
 # Requirements
 
-    - Snakemake
-    - Wext
+    - Snakemake: https://snakemake.readthedocs.io/en/stable/
+    - Wext: https://github.com/raphael-group/wext
 
 # EXAMPLE
 
